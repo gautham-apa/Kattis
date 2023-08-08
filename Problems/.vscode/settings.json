@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "__tree": "cpp",
+        "set": "cpp",
+        "vector": "cpp"
+    }
+}
