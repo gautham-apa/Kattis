@@ -3,6 +3,25 @@
         "__bit_reference": "cpp",
         "__tree": "cpp",
         "set": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "span": "cpp",
+        "ostream": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "regex": "cpp",
+        "scoped_allocator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "thread": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "filesystem": "cpp",
+        "iostream": "cpp"
     }
 }
