@@ -14,5 +14,16 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);   
 
-    cout<<"Hello World!";
+    int t,n;
+    cin>>t;
+    while(t--) {
+        cin>>n;
+        ll p=1, pp=1;
+        while(n--) {
+            ll temp = (p+pp)%1000000007;
+            pp = p;
+            p = temp;
+        }
+        printf("%lld\n",p);
+    }
 }
