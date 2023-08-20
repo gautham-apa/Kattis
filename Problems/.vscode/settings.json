@@ -23,6 +23,8 @@
         "unordered_set": "cpp",
         "filesystem": "cpp",
         "iostream": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "__locale": "cpp",
+        "istream": "cpp"
     }
 }
