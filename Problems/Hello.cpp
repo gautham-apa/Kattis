@@ -7,6 +7,7 @@
 #include<string>
 #include<map>
 #include<stack>
+#include <sstream>
 typedef long long ll;
 
 using namespace std;
